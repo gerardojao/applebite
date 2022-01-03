@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7b506c16.css",
-    "main.js": "/static/js/main.b16f411b.js",
-    "static/media/ISOTIPO.png": "./static/media/ISOTIPO.6c1c1a31dcaa475dd112.png",
+    "main.js": "/static/js/main.86c9dd3d.js",
     "index.html": "/index.html",
     "main.7b506c16.css.map": "/static/css/main.7b506c16.css.map",
-    "main.b16f411b.js.map": "/static/js/main.b16f411b.js.map"
+    "main.86c9dd3d.js.map": "/static/js/main.86c9dd3d.js.map"
   },
   "entrypoints": [
     "static/css/main.7b506c16.css",
-    "static/js/main.b16f411b.js"
+    "static/js/main.86c9dd3d.js"
   ]
 }
