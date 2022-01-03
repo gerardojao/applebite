@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.7b506c16.css",
     "main.js": "/static/js/main.b16f411b.js",
-    "static/media/ISOTIPO.png": "/static/media/ISOTIPO.6c1c1a31dcaa475dd112.png",
+    "static/media/ISOTIPO.png": "./static/media/ISOTIPO.6c1c1a31dcaa475dd112.png",
     "index.html": "/index.html",
     "main.7b506c16.css.map": "/static/css/main.7b506c16.css.map",
     "main.b16f411b.js.map": "/static/js/main.b16f411b.js.map"
